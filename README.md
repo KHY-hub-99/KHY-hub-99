@@ -150,20 +150,6 @@ Dynamic UI · GenUI · SPA · 디자인 시스템
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHY-hub-99&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KHY-hub-99&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KHY-hub-99&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KHY-hub-99&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KHY-hub-99&theme=tokyonight&utcOffset=9" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1e3a8a,100:2563eb&height=100&section=footer" />
 </div>
