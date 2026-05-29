@@ -1,12 +1,16 @@
 <div align="center">
 
-  <a href="https://github.com/gonida1010">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:7c3aed,100:db2777&height=220&section=header&text=Hyeonyong%20Kim's%20Code%20&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+  <a href="https://github.com/KHY-hub-99">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,50:1e3a8a,100:2563eb&height=180&section=header&text=Hyeonyong%20Kim's%20Code&fontSize=42&fontColor=ffffff&fontAlignY=52&animation=fadeIn" />
   </a>
 
   <p>
-    <a href="https://app.notion.com/p/2e2ddf1ded0b80f6bc0ed85ec629c6b3?v=2e2ddf1ded0b81fe9bfb000ccb650424&source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-    <a href="mailto:multikhy0612@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <a href="https://app.notion.com/p/2e2ddf1ded0b80f6bc0ed85ec629c6b3?v=2e2ddf1ded0b81fe9bfb000ccb650424&source=copy_link" target="_blank">
+      <img src="https://img.shields.io/badge/Tech%20Blog-111111?style=for-the-badge&logo=notion&logoColor=white"/>
+    </a>
+    <a href="mailto:multikhy0612@gmail.com">
+      <img src="https://img.shields.io/badge/Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
   </p>
 
 </div>
@@ -161,5 +165,5 @@ Dynamic UI · GenUI · SPA · 디자인 시스템
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,50:7c3aed,100:1e3a8a&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1e3a8a,100:2563eb&height=100&section=footer" />
 </div>
