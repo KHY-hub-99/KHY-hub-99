@@ -1,62 +1,116 @@
+```html
 <div align="center">
 
   <a href="https://github.com/KHY-hub-99">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:7c3aed,100:db2777&height=220&section=header&text=AI%20Developer%20Kim%20Hyeonyong&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=과정은%20꾸준하게,%20결과는%20확실하게&descSize=18&descAlignY=60&animation=fadeIn" />
+    <img 
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=AI%20Developer%20Kim%20Hyeonyong&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20·%20AI%20·%20LLM%20Security%20·%20Backend&descSize=18&descAlignY=60&animation=fadeIn" 
+      alt="header"
+    />
   </a>
 
+  <br/>
+
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Developer+who+connects+Data+and+Intelligence;Building+LLM+Security+Judgment+Systems;Designing+Agent+Architecture+with+LangGraph;Solving+complex+problems+from+first+principles" 
+    alt="Typing SVG"
+  />
+
+  <br/><br/>
+
   <p>
-    <a href="https://pak1010pak.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-    <a href="https://www.notion.so/2ce6e129440d812e9d82e8bfa1a18426?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-    <a href="mailto:pak101044@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-    <img src="https://komarev.com/ghpvc/?username=gonida1010&style=for-the-badge&color=7c3aed" alt="profile views"/>
+    <a href="mailto:multikhy0612@gmail.com">
+      <img src="https://img.shields.io/badge/Email-multikhy0612%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/KHY-hub-99">
+      <img src="https://img.shields.io/badge/GitHub-KHY--hub--99-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=KHY-hub-99&style=for-the-badge&color=2563eb" alt="profile views" />
   </p>
 
 </div>
 
-## 👨‍💻 About Me
+<br/>
 
-- 🔥 **책임감** — 삶으로 증명한 공백 없는 꾸준함, 멈추지 않는 문제 해결력
-- 📐 **설계** — 맹목적인 기술 도입이 아닌, 목표 달성을 위한 최적의 시스템 구축
-- 🤝 **리더십** — 굳건한 신뢰를 바탕으로 팀의 시너지를 극대화하여 확실한 결과 창출
+<hr/>
 
 <br/>
 
-## 📌 Pinned Projects
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+</div>
+
+<table>
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70" />
+    </td>
+    <td width="85%">
+      <b>AI 개발자 지향</b><br/>
+      데이터와 AI 구조를 연결해 실제 서비스 문제를 해결하는 개발자를 목표로 합니다.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/security-checked.png" width="70" />
+    </td>
+    <td>
+      <b>LLM Security</b><br/>
+      Prompt Injection, 민감정보 노출, 권한 오남용 등 LLM 보안 취약점 판정에 관심이 있습니다.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="70" />
+    </td>
+    <td>
+      <b>Data-driven Problem Solving</b><br/>
+      공공데이터, 사용자 행동 데이터, 추천 알고리즘을 활용한 문제 해결 경험이 있습니다.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/workflow.png" width="70" />
+    </td>
+    <td>
+      <b>Backend & Agent System</b><br/>
+      FastAPI, Docker, LangGraph 기반의 AI 서비스 구조 설계와 구현을 경험했습니다.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+  <h2>📌 Pinned Projects</h2>
+</div>
+
 <div align="center">
   <table>
     <tr>
       <td valign="top" width="50%">
-        <a href="https://github.com/EPOCH-X/AgentShield">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=EPOCH-X&repo=AgentShield&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
+        <a href="https://github.com/KHY-hub-99/AgentShield">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KHY-hub-99&repo=AgentShield&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
       <td valign="top" width="50%">
-        <a href="https://github.com/Meat-A-Eye-Ops/Meat-A-Eye-Service">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=Meat-A-Eye-Ops&repo=Meat-A-Eye-Service&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-        <a href="https://github.com/gonida1010/yuzyproject-aimodels">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=yuzyproject-aimodels&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
-        </a>
-      </td>
-      <td valign="top" width="50%">
-        <a href="https://github.com/gonida1010/KIT-AI-Learning">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=KIT-AI-Learning&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
+        <a href="https://github.com/KHY-hub-99/Seoul-Travel-Recommendation">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KHY-hub-99&repo=Seoul-Travel-Recommendation&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td valign="top" width="50%">
-        <a href="https://github.com/EPOCH-X/RL-Tycoon-Agent">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=EPOCH-X&repo=RL-Tycoon-Agent&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
+        <a href="https://github.com/KHY-hub-99/Bitget_chart">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KHY-hub-99&repo=Bitget_chart&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
       <td valign="top" width="50%">
-        <a href="https://github.com/gonida1010/DemonSlayer-RandomDefense">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=gonida1010&repo=DemonSlayer-RandomDefense&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
+        <a href="https://github.com/KHY-hub-99/LLM-Security-Dataset">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KHY-hub-99&repo=LLM-Security-Dataset&theme=tokyonight&show_owner=true&hide_description=true" width="100%" />
         </a>
       </td>
     </tr>
@@ -65,164 +119,382 @@
 
 <br/>
 
-## 🚀 대표 팀 프로젝트
-
-### AgentShield · LLM 보안 검증 플랫폼 <sub>`팀장`</sub>
-
-<a href="https://github.com/gonida1010/AgentShield" target="_blank">
-  <img src="https://img.shields.io/badge/Role-Team%20Lead-f59e0b?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Active-22c55e?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Stack-FastAPI%20·%20Next.js%20·%20LangGraph%20·%20Ollama-7c3aed?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Domain-OWASP%20LLM%20Top%2010-db2777?style=flat-square"/>
-</a>
-
-> **Red(공격) → Judge(판정) → Blue(방어)** 멀티 에이전트 파이프라인으로 LLM 챗봇의 취약점을 자동 진단·완화하는 SaaS형 보안 검증 플랫폼
-
-- **Red Agent** — 라운드 기반 적응형 공격 프롬프트 생성 (다국어 / 인코딩 회전 / 도메인 컨텍스트)
-- **Judge (LangGraph)** — Evidence Scanner · Strict Auditor · Context Auditor 합의 모델로 vulnerable / safe / ambiguous 판정
-- **Blue Agent** — Phase 3 방어 규칙 생성 → Phase 4 검증 → **Phase 5 Guardrail Policy Package** 산출
-- **Testbed** — Implicit RAG 기반 챗봇 + Tool Gateway + ChromaDB(공개/내부/오염 문서) Docker 통합 환경
-- **Monitoring Proxy** — 운영 챗봇 앞단 P1~P4 정책 게이트 + 멀티턴 보존 + tool_trace 추적
-- **OWASP LLM Top 10 커버** — LLM01 Prompt Injection · LLM02 Sensitive Info · LLM06 Excessive Agency · LLM07 System Prompt Leakage
-
-<a href="https://github.com/gonida1010/AgentShield" target="_blank">💻 GitHub Repository →</a>
-
-<a href="https://www.notion.so/AgentShield-3646e129440d80c1929ed7548d313d2e?source=copy_link" target="_blank">📒 Notion →</a>
-
----
-
-### Meat-A-Eye · 축산물 부위 인식 & 원스톱 정보 플랫폼 <sub>`팀장`</sub>
-
-<a href="https://github.com/gonida1010/Meat-A-Eye-Service" target="_blank">
-  <img src="https://img.shields.io/badge/Role-Team%20Lead-f59e0b?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stack-Next.js%20·%20FastAPI%20·%20PyTorch%20·%20AWS-7c3aed?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Domain-Vision%20·%20Hybrid%20OCR-db2777?style=flat-square"/>
-</a>
-
-> 사진 한 장으로 축산물 부위를 인식하고 시세·영양·이력·레시피까지 한 번에 제공하는 AI 마이크로서비스
-
-- **부위 인식** — EfficientNet-B2 파인튜닝으로 소·돼지 부위 9·7종 분류 (정확도 94.2%)
-- **하이브리드 OCR** — EasyOCR + PaddleOCR 결과 병합으로 이력번호 인식 (88.9%)
-- **공공 API 통합** — 시세 · 영양 · 유통이력 등 5종 API 연동
-- **AI 레시피** — Gemini 2.5 Flash로 부위별 요리법 추천 / 스마트 냉장고(D-day) 관리
-- **운영 인프라** — AWS EC2 + Docker Compose + Nginx 기반 마이크로서비스
-
-<a href="https://github.com/gonida1010/Meat-A-Eye-Service" target="_blank">💻 GitHub Repository →</a>
-
-<a href="https://www.notion.so/Meat-A-Eye-2e26e129440d8035ad3ef7c7df562ceb?source=copy_link" target="_blank">📒 Notion →</a>
-
----
-
-### YUZY Project · 코드 분석 & 하이브리드 OCR 파이프라인
-
-<a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">
-  <img src="https://img.shields.io/badge/Stack-FastAPI%20·%20PyTorch%20·%20Transformers-7c3aed?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Domain-LLM%20·%20OCR-db2777?style=flat-square"/>
-</a>
-
-> 오픈소스 LLM과 하이브리드 OCR을 결합해 프로젝트 코드를 분석·시각화하는 AI 백엔드
-
-- **코드 분석 LLM** — Qwen2.5-Coder-1.5B-Instruct로 API 엔드포인트 · 호출 플로우 추출
-- **시각화 출력** — 분석 결과 JSON 반환으로 프론트엔드 GenUI 연동
-- **하이브리드 OCR** — Tesseract + Windows WinRT 병렬 실행 후 결과 병합
-- **코드 모드** — 인식 결과의 들여쓰기 · 포맷팅 자동 보정
-- **서빙 최적화** — FastAPI + Uvicorn, 서버 부팅 시 모델 1회 로딩으로 추론 가속
-
-<a href="https://github.com/gonida1010/yuzyproject-aimodels" target="_blank">💻 GitHub Repository →</a>
-
-<a href="https://www.notion.so/YUZY-PROJECT-2e26e129440d801cbbdaccf0b71ed8f9?source=copy_link" target="_blank">📒 Notion →</a>
-
----
-
-### RL-Tycoon-Agent · 강화학습 알고리즘 비교 실험 플랫폼 <sub>`팀장`</sub>
-
-<a href="https://github.com/gonida1010/RL-Tycoon-Agent" target="_blank">
-  <img src="https://img.shields.io/badge/Role-Team%20Lead-f59e0b?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stack-Python%20·%20Pygame%20·%20Gymnasium%20·%20SB3-7c3aed?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Domain-Reinforcement%20Learning-db2777?style=flat-square"/>
-</a>
-
-> Pygame 기반 레스토랑 타이쿤 환경에서 **13종 RL 알고리즘**의 운영 의사결정 학습을 비교·분석하는 실험 플랫폼
-
-- **환경 (Gymnasium)** — 16×10 타일 맵 · 18 이산 행동 · 150차원 관측 · 0.2초 스텝
-- **알고리즘 13종** — PPO · DQN · Rainbow · SAC · DiscreteSAC · MuZero · DreamerV3 · CrossPlay 등
-- **실행 모드 4종** — Human / Versus / Watch / Tournament 비교 학습
-- **전략 학습** — 단순 이동을 넘어 업그레이드 · 특성 선택까지 포함한 운영 의사결정
-- **결과 분석** — `final_score = net_profit × (1 + rating/10)` 기준 DiscreteSAC > CrossPlay > PPO
-
-<a href="https://github.com/gonida1010/RL-Tycoon-Agent" target="_blank">💻 GitHub Repository →</a>
-
-<a href="https://www.notion.so/RL-Tycoon-Agent-32c6e129440d809984c7e54c312bad3c?source=copy_link" target="_blank">📒 Notion →</a>
+<div align="center">
+  <sub>
+    카드가 표시되지 않으면 실제 GitHub 레포지토리 이름과 README의 repo 값이 다른 경우입니다.
+  </sub>
+</div>
 
 <br/>
 
-## 🛠️ Tech Stack
+<hr/>
+
+<br/>
+
+<div align="center">
+  <h2>🚀 Main Projects</h2>
+</div>
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
 
-**🤖 AI / LLM**
-Vision · OCR · Fine-Tuning(LoRA) · LangGraph · RL · Data-Centric
+<h3>🛡 AgentShield</h3>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<b>LLM 보안 판정 및 방어 플랫폼</b>
 
-  </td>
-  <td valign="top" width="50%">
+<br/><br/>
 
-**⚙️ Backend**
-Async API · Model Serving · Data Pipeline · RDBMS · Vector DB
+<a href="https://github.com/KHY-hub-99/AgentShield">
+  <img src="https://img.shields.io/badge/Role-AI%20Developer-f59e0b?style=flat-square&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Status-Developing-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/Domain-LLM%20Security-db2777?style=flat-square" />
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339939?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white"/>
+<br/><br/>
 
-  </td>
-  </tr>
-  <tr>
-  <td valign="top" width="50%">
+Prompt Injection, 민감정보 노출, 권한 오남용, 시스템 프롬프트 유출 등 LLM 응답의 취약성을 판정하고 방어 정책을 설계하는 보안 검증 시스템입니다.
 
-**🖥️ Frontend**
-Dynamic UI · GenUI · SPA · 디자인 시스템
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<b>Core Features</b>
 
-  </td>
-  <td valign="top" width="50%">
+<ul>
+  <li>vulnerable-side, safe-side, consensus 기반 다중 판단 구조</li>
+  <li>LangGraph 기반 Evidence Scanner, Auditor, Consensus 흐름 구성</li>
+  <li>패턴 탐지, safe evidence, hard veto 기반 확률 누적 구조</li>
+  <li>OWASP LLM Security 카테고리 기반 데이터셋 설계</li>
+  <li>JSON 파싱, consensus reason 추출, 라벨 정합성 검토</li>
+</ul>
 
-**☁️ Infra / DevOps**
-컨테이너화 · 배포 자동화 · 모니터링 · 비용/성능 최적화
+<br/>
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" />
 
-  </td>
+<br/><br/>
+
+<a href="https://github.com/KHY-hub-99/AgentShield">💻 GitHub Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🗺 Seoul Travel Recommendation</h3>
+
+<b>서울 여행 추천 서비스</b>
+
+<br/><br/>
+
+<a href="https://github.com/KHY-hub-99/Seoul-Travel-Recommendation">
+  <img src="https://img.shields.io/badge/Domain-Recommendation%20System-db2777?style=flat-square" />
+</a>
+<img src="https://img.shields.io/badge/Stack-Python%20·%20DFS%20·%20Public%20Data-2563eb?style=flat-square" />
+
+<br/><br/>
+
+서울 열린데이터광장의 교통·유동인구 데이터를 활용해 사용자 맞춤형 여행 경로를 추천하는 데이터 기반 서비스입니다.
+
+<br/><br/>
+
+<b>Core Features</b>
+
+<ul>
+  <li>사용자 선호와 조건을 반영한 장소 추천 로직 설계</li>
+  <li>유동인구 데이터를 활용한 혼잡도 기반 추천 품질 개선</li>
+  <li>필수 경유지를 포함하는 커스텀 DFS 알고리즘 구현</li>
+  <li>경로 탐색 로직 개선을 통한 출력 시간 약 30% 단축</li>
+  <li>공공데이터 기반 이동 효율성 개선</li>
+</ul>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/DFS-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Public%20Data-2563EB?style=flat-square" />
+
+<br/><br/>
+
+<a href="https://github.com/KHY-hub-99/Seoul-Travel-Recommendation">💻 GitHub Repository →</a>
+
+</td>
   </tr>
 </table>
 
 <br/>
 
-## 📊 GitHub Stats
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>📈 Crypto Trading Logic</h3>
+
+<b>가상자산 매매 로직 실험</b>
+
+<br/><br/>
+
+<a href="https://github.com/KHY-hub-99/Bitget_chart">
+  <img src="https://img.shields.io/badge/Domain-Trading%20Logic-db2777?style=flat-square" />
+</a>
+<img src="https://img.shields.io/badge/Stack-Python%20·%20ccxt%20·%20Backtesting-2563eb?style=flat-square" />
+
+<br/><br/>
+
+Binance / Bitget 차트 데이터를 기반으로 매매 전략을 백테스트하고 실시간 체결 규칙을 실험한 프로젝트입니다.
+
+<br/><br/>
+
+<b>Core Features</b>
+
+<ul>
+  <li>SMA / VWMA 터치 기반 진입 신호 로직 구성</li>
+  <li>다음 캔들 open이 아닌 터치 라인 가격 기준 진입 로직 실험</li>
+  <li>동일 캔들 내부 SL 도달 시 불리한 방향으로 SL 우선 처리</li>
+  <li>기존 포지션 청산 캔들에서 재진입 방지</li>
+  <li>ccxt 기반 Binance / Bitget 데이터 및 데모 환경 연동</li>
+</ul>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/ccxt-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Backtesting-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Binance-F0B90B?style=flat-square&logo=Binance&logoColor=black" />
+
+<br/><br/>
+
+<a href="https://github.com/KHY-hub-99/Bitget_chart">💻 GitHub Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧪 LLM Security Dataset Pipeline</h3>
+
+<b>보안 판정 학습 데이터 파이프라인</b>
+
+<br/><br/>
+
+<a href="https://github.com/KHY-hub-99/LLM-Security-Dataset">
+  <img src="https://img.shields.io/badge/Domain-Dataset%20Engineering-db2777?style=flat-square" />
+</a>
+<img src="https://img.shields.io/badge/Stack-Python%20·%20JSON%20·%20Evaluation-2563eb?style=flat-square" />
+
+<br/><br/>
+
+LLM 보안 판정 모델 학습을 위해 공격 프롬프트, 응답, 판정 이유를 구조화하고 정제하는 데이터 준비 파이프라인입니다.
+
+<br/><br/>
+
+<b>Core Features</b>
+
+<ul>
+  <li>attack prompt, target response, judgment, reason 구조화</li>
+  <li>최종 판정과 일치하는 consensus reason 기반 학습 데이터 생성</li>
+  <li>한국어, 영어, 혼합 언어 기반 우회 공격 시나리오 고려</li>
+  <li>데이터 수가 적은 상황에서 오버샘플링 구조 검토</li>
+  <li>safe / vulnerable 판단 기준과 reason 품질 검토</li>
+</ul>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Fine--tuning-9333EA?style=flat-square" />
+<img src="https://img.shields.io/badge/Evaluation-0891B2?style=flat-square" />
+
+<br/><br/>
+
+<a href="https://github.com/KHY-hub-99/LLM-Security-Dataset">💻 GitHub Repository →</a>
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+<hr/>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonida1010&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gonida1010&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gonida1010&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gonida1010&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gonida1010&theme=tokyonight&utcOffset=9" />
+  <h2>🛠️ Tech Stack</h2>
+</div>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+<h3>🤖 AI / LLM</h3>
+
+<p>
+  LLM Agent · Prompt Injection Detection · RAG · Fine-tuning Data · Evaluation
+</p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" />
+
+</td>
+
+<td valign="top" width="50%">
+
+<h3>⚙️ Backend</h3>
+
+<p>
+  API Server · Model Serving · Data Pipeline · Vector DB
+</p>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
+<img src="https://img.shields.io/badge/Uvicorn-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js-339939?style=flat-square&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+
+</td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+
+<h3>📊 Data / Algorithm</h3>
+
+<p>
+  Data Analysis · Route Optimization · Backtesting · Public Data
+</p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
+<img src="https://img.shields.io/badge/DFS-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Backtesting-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Public%20Data-2563EB?style=flat-square" />
+
+</td>
+
+<td valign="top" width="50%">
+
+<h3>☁️ Infra / DevOps</h3>
+
+<p>
+  Container · Local Dev Environment · Deployment Experiment
+</p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/WSL2-4D4D4D?style=flat-square&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHY-hub-99&theme=tokyonight" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KHY-hub-99&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KHY-hub-99&theme=tokyonight" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KHY-hub-99&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KHY-hub-99&theme=tokyonight&utcOffset=9" />
 </div>
 
 <br/>
 
-## 🐍 Contribution
+<hr/>
+
+<br/>
 
 <div align="center">
+  <h2>🧠 Currently Interested In</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <img src="https://img.icons8.com/fluency/96/security-checked.png" width="60" />
+        <br/>
+        <b>LLM Security</b>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.icons8.com/fluency/96/workflow.png" width="60" />
+        <br/>
+        <b>AI Agent</b>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.icons8.com/fluency/96/database.png" width="60" />
+        <br/>
+        <b>RAG System</b>
+      </td>
+      <td align="center" width="180">
+        <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="60" />
+        <br/>
+        <b>Data Analysis</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+  <h2>🐍 Contribution</h2>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gonida1010/gonida1010/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gonida1010/gonida1010/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/gonida1010/gonida1010/output/github-contribution-grid-snake.svg" />
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/KHY-hub-99/KHY-hub-99/output/github-contribution-grid-snake-dark.svg" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/KHY-hub-99/KHY-hub-99/output/github-contribution-grid-snake.svg" 
+    />
+    <img 
+      alt="github contribution snake" 
+      src="https://raw.githubusercontent.com/KHY-hub-99/KHY-hub-99/output/github-contribution-grid-snake.svg" 
+    />
   </picture>
 </div>
 
+<br/>
+
+<hr/>
+
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,50:7c3aed,100:1e3a8a&height=100&section=footer" />
+
+  <h3>“복잡한 문제일수록 근본적인 원리에 집중해 해결합니다.”</h3>
+
+  <br/>
+
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=100&section=footer" 
+    alt="footer" 
+  />
+
 </div>
+```
