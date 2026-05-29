@@ -1,7 +1,7 @@
 <div align="center">
 
-  <a href="https://github.com/gonida1010">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:7c3aed,100:db2777&height=220&section=header&text=AI%20Developer%20Park%20Yeonggon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=과정은%20꾸준하게,%20결과는%20확실하게&descSize=18&descAlignY=60&animation=fadeIn" />
+  <a href="https://github.com/KHY-hub-99">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:7c3aed,100:db2777&height=220&section=header&text=AI%20Developer%20Kim%20Hyeonyong&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=과정은%20꾸준하게,%20결과는%20확실하게&descSize=18&descAlignY=60&animation=fadeIn" />
   </a>
 
   <p>
