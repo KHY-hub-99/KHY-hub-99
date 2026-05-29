@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Tech%20Blog-111111?style=for-the-badge&logo=notion&logoColor=white"/>
     </a>
     <a href="mailto:multikhy0612@gmail.com">
-      <img src="https://img.shields.io/badge/Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
   </p>
 
